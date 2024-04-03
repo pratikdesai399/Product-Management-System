@@ -40,12 +40,9 @@ To run the application, you have two options: using Docker or without Docker.
 
 We welcome contributions to enhance the Product Management System. Feel free to submit issues, feature requests, or pull requests.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or suggestions, please feel free to reach out to us via [email](mailto:example@example.com).
+If you have any questions or suggestions, please feel free to reach out to us via [email](mailto:pratikdesai399@gmail.com).
 
 Thank you for using the Product Management System! Happy managing your products, orders, and inventory! 🚀
